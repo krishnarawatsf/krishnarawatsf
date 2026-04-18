@@ -14,11 +14,22 @@ CSE student focused on **Data Analytics** and data-driven decision making.
 - **Tools:** Excel, GitHub, VS Code
 - **Concepts:** Statistical Analysis, Data Interpretation, Business Insights
 
-## Featured Work
-- **Customer Demographic Data Analysis**
-  - Cleaned and analyzed demographic data (age, gender, occupation)
-  - Built Tableau dashboards for segmentation and trend tracking
-  - Produced insights that improved engagement metrics by 20%
+## Project Directory
+### Data & Analytics
+- [leap-product-dashboard](https://github.com/krishnarawatsf/leap-product-dashboard): Product analytics dashboard prototype
+- [remote-reset-button](https://github.com/krishnarawatsf/remote-reset-button): Python automation and infrastructure workflow utility
+
+### Product & Web
+- [app-builder](https://github.com/krishnarawatsf/app-builder): App composition prototype for rapid UI experiments
+- [my-thrift-store](https://github.com/krishnarawatsf/my-thrift-store): E-commerce storefront prototype
+- [feral](https://github.com/krishnarawatsf/feral): Luxury fashion e-commerce concept site
+
+### Security & Awareness
+- [pvf-extension](https://github.com/krishnarawatsf/pvf-extension): Browser extension experiments for privacy workflows
+- [Security-Website](https://github.com/krishnarawatsf/Security-Website): Security-focused awareness web project
+
+### Event Ops
+- [chennai-summit-sponsorship-warroom](https://github.com/krishnarawatsf/chennai-summit-sponsorship-warroom): Sponsorship planning coordination site
 
 ## Experience
 - **Research Intern, DRDO - Scientific Analysis Group (Jun 2025 - Jul 2025)**
