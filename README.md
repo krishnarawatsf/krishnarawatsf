@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name]</h1>
+<h1 align="center">Hi, I'm Krishna Rawat</h1>
 <p align="center">
   CSE Student • Data Analytics Enthusiast • Python | SQL | Excel | Tableau
 </p>
@@ -43,5 +43,5 @@ Tech: SQL, Excel, Tableau
 - Best Speaker, Presidential Debate Competition, ZEPHYR (2024)
 
 ## Let's Connect
-- LinkedIn: [Add your link]
-- Email: [Add your email]
+- LinkedIn: www.linkedin.com/in/krishna-rawat-84913728a
+- Email: krishnarawatsf@gmail.com
