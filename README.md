@@ -1,47 +1,65 @@
 # Hi, I'm Krishna Rawat 👋
 
-**Systems & Automation Engineer** specializing in resilient backend architectures, network automation protocols, and intelligent operational pipelines.
+**Software Engineer** passionate about building robust backend services, scalable systems, and intelligent tools.
 
-I focus on building production-grade services with **provable algorithmic complexity**, **thorough test coverage**, and **measured runtime performance**.
-
----
-
-## 🛠 What I Build
-
-### 🌐 Network & Protocol Systems
-- **[remote-reset-automation](https://github.com/krishnarawatsf/remote-reset-automation)**: RFC 8040 RESTCONF network interface manager with sub-microsecond in-memory CRUD engine, Spring Boot mock server, and 34 automated unit/integration tests.
-- **[express-logging-middleware](https://github.com/krishnarawatsf/express-logging-middleware)**: Pluggable TypeScript middleware for structured logging, latency tracking, and webhook notification triggers.
-
-### 🤖 AI & Intelligent Operations
-- **[ai-product-feedback-intelligence-system](https://github.com/krishnarawatsf/ai-product-feedback-intelligence-system)**: Automated NLP feedback intelligence system that aggregates cross-channel user signals, clusters bug reports, and surfaces prioritized action items.
-- **[ai-operations-copilot](https://github.com/krishnarawatsf/ai-operations-copilot)**: Deterministic Python copilot for incident triage, system health verification, and rollback automation.
-- **[phishing-url-detection](https://github.com/krishnarawatsf/phishing-url-detection)**: Lightweight, explainable security classification system evaluated on realistic URL lexical and structural heuristics.
-
-### 📈 Product & Data Analytics
-- **[playstore-review-dashboard](https://github.com/krishnarawatsf/playstore-review-dashboard)**: Sentiment monitoring dashboard providing trend detection and review categorization for product teams.
+I focus on **software correctness**, **efficient data structures & algorithms**, **thorough testing**, and **clean architecture**.
 
 ---
 
-## ⚙️ Engineering Principles
+## 🛠 Featured Projects
 
-1. **Complexity-Aware Design**: Every data structure is selected for specific access patterns ($O(1)$ point lookups, $O(n)$ stream queries).
-2. **Empirical Verification**: We measure actual performance across increasing dataset sizes ($N = 100 \to 50,000$) rather than guessing.
-3. **Strict Boundaries**: Clean 3-tier layering (Controller $\to$ Service $\to$ Repository) with zero leaked abstractions.
-4. **Security by Default**: Timing-safe authentication, input validation, and zero committed secrets.
+### ⚙️ Backend & Systems Engineering
+- **[remote-reset-automation](https://github.com/krishnarawatsf/remote-reset-automation)**  
+  *Java, Spring Boot, RFC 8040, OkHttp, JUnit 5*  
+  High-throughput RESTCONF network configuration engine with sub-microsecond in-memory CRUD storage, comprehensive validation, and 34 automated unit/integration tests.
+- **[express-logging-middleware](https://github.com/krishnarawatsf/express-logging-middleware)**  
+  *TypeScript, Node.js, Express*  
+  Pluggable structured logging middleware featuring latency tracking, configurable sampling, and alert webhooks.
+
+### 🤖 Intelligent Systems & Automation
+- **[ai-product-feedback-intelligence-system](https://github.com/krishnarawatsf/ai-product-feedback-intelligence-system)**  
+  *Python, NLP, Embeddings, LLMs*  
+  Data pipeline aggregating multi-channel user feedback, deduplicating issues, and clustering insights for prioritization.
+- **[ai-operations-copilot](https://github.com/krishnarawatsf/ai-operations-copilot)**  
+  *Python, SRE, Automated Playbooks*  
+  Deterministic incident triage copilot for automating diagnostics, system verification, and rollback workflows.
+- **[phishing-url-detection](https://github.com/krishnarawatsf/phishing-url-detection)**  
+  *Python, Scikit-Learn, Security*  
+  Explainable URL classification system detecting malicious domains through lexical and structural heuristics.
+
+### 📊 Web & Analytics
+- **[playstore-review-dashboard](https://github.com/krishnarawatsf/playstore-review-dashboard)**  
+  *TypeScript, React, Analytics*  
+  Interactive analytics dashboard tracking sentiment shifts, complaint patterns, and rating distributions.
+- **[customer-cohort-analytics](https://github.com/krishnarawatsf/customer-cohort-analytics)**  
+  *Python, Pandas, Data Analysis*  
+  Exploratory analysis and behavioral cohort segmentation pipeline for customer retention metrics.
+- **[privacy-guard-extension](https://github.com/krishnarawatsf/privacy-guard-extension)**  
+  *JavaScript, WebExtensions API*  
+  Browser extension intercepting third-party tracking scripts, fingerprinting, and telemetry beacons.
 
 ---
 
-## 🧰 Technical Stack
+## 💡 How I Build
 
-- **Languages**: Java, Python, TypeScript, SQL
-- **Backend & Frameworks**: Spring Boot, Express, FastAPI, OkHttp, Gson
-- **Data & Storage**: PostgreSQL, Concurrent In-Memory Structures, Redis
-- **Testing & CI/CD**: JUnit 5, Mockito, MockMvc, MockWebServer, PyTest, GitHub Actions
-- **Standards & Protocols**: RESTCONF (RFC 8040), IETF YANG (RFC 8343), JSON Schema
+- **Complexity Aware**: Picking the right data structures ($O(1)$ hash tables, trees, lists) based on access patterns.
+- **Test-Driven & Verified**: Unit, integration, and edge-case testing with automated CI pipelines.
+- **Modular & Maintainable**: Clean separation of concerns (Controller $\to$ Service $\to$ Repository) without unnecessary complexity.
+- **Security-Minded**: Timing-safe authentication, input sanitation, and zero committed credentials.
 
 ---
 
-## 📬 Connect
+## 🧰 Tech Stack & Tools
+
+- **Languages**: Java, Python, TypeScript, JavaScript, SQL, Bash
+- **Frameworks & Libraries**: Spring Boot, Express, FastAPI, React, OkHttp, Gson
+- **Databases & Storage**: PostgreSQL, Redis, In-Memory Data Stores
+- **DevOps & Tooling**: Docker, Git, GitHub Actions, Linux, REST/RESTCONF APIs
+- **Testing**: JUnit 5, Mockito, MockMvc, PyTest, AssertJ
+
+---
+
+## 📬 Get in Touch
 
 - **LinkedIn**: [linkedin.com/in/krishna-rawat-84913728a](https://www.linkedin.com/in/krishna-rawat-84913728a)
 - **Email**: [krishnarawatsf@gmail.com](mailto:krishnarawatsf@gmail.com)
