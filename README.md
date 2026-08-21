@@ -1,103 +1,101 @@
 <div align="center">
 
-```
-  _  ______  _____  _____ _    _ _   _          _____             _       __ 
- | |/ /  _ \|_   _|/ ____| |  | | \ | |   /\   |  __ \   /\      | |     / _|
- | ' /| |_) | | | | (___ | |__| |  \| |  /  \  | |__) | /  \     | |___ | |_ 
- |  < |  _ <  | |  \___ \|  __  | . ` | / /\ \ |  _  / / /\ \    |  _  \|  _|
- | . \| | \ \_| |_ ____) | |  | | |\  |/ ____ \| | \ \/ ____ \ _ | | | || |  
- |_|\_\_|  \_\_____|_____/|_|  |_|_| \_/_/    \_\_|  \_\/    \_(_)|_| |_||_|  
-```
-
-### `> INITIALIZING SYSTEM PROTOCOL...`
-**`[ ACCESS GRANTED: ROOT USER // KRISHNA RAWAT ]`**
-
-```bash
-$ whoami
-> Software Engineer // Systems, Resilient Backends & Intelligent Automation
+```text
+ ╔═══════════════════════════════════════════════════════════════════╗
+ ║   __  ______  _  __  _   ___  _____  ___  ___  _ _ _  ___ _____   ║
+ ║  |  |/ /  _ \| |/ / | | / _ \|  _  |/ _ \/ _ \| | | |/ _ \_   _|  ║
+ ║  | ' / | |_) | ' /  | || | | | |_) | | | | | | | | | | |_) || |    ║
+ ║  | . \ |  _ <| . \  | || |_| |  _ <| |_| | |_| | | | |  _ < | |    ║
+ ║  |_|\_\|_| \_\_|\_\ |_| \___/|_| \_\\___/ \___/ \___/|_| \_\|_|    ║
+ ║                                                                   ║
+ ║           *･ﾟ✧ Y 2 K // S O F T W A R E  E N G I N E E R ✧･ﾟ*     ║
+ ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Welcome+to+the+Construct.;Decoding+Complexity+into+Clean+Code.;Building+Resilient+High-Throughput+Systems.;Java+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+Go)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=%3E+LOADING+KRISHNA_RAWAT.EXE...;%3E+BACKEND+SYSTEMS+%26+NETWORK+AUTOMATION;%3E+INTELLIGENT+PIPELINES+%26+CLEAN+CODE;%3E+PROVABLE+O(1)+COMPLEXITY+%26+ZERO+BUGS" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VIBE-Y2K_CYBER-ff71ce?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/CORE-SOFTWARE_ENGINEERING-01cdfe?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-05ffa1?style=flat-square&logo=gnubash&logoColor=black" />
+  <img src="https://img.shields.io/badge/BUILD-PASSING-b967ff?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
 
 ---
 
 </div>
 
-```ini
-[SYSTEM_SPECS]
-KERNEL       = Software Engineering Core
-PARADIGM     = Correctness • Complexity-Aware • Fault-Tolerant • Clean Architecture
-ACCESS_POINT = San Francisco / Global
-STATUS       = ONLINE // Ready for Production
+```yaml
+# ─── USER_PROFILE.SYS ──────────────────────────────────────────────
+Engineer   : Krishna Rawat
+Specialty  : Backend Systems • Network Protocols • Intelligent Automation
+Philosophy : "Correctness first, O(1) algorithms, and zero fluff."
+Location   : Earth // Online
 ```
 
 ---
 
-## ⚡ `cat /var/log/flagship_systems.log`
-
-### 🌐 `[NODE-01]` [remote-reset-automation](https://github.com/krishnarawatsf/remote-reset-automation)
-> **Protocol**: RFC 8040 RESTCONF • Java 17+ • Spring Boot • OkHttp • JUnit 5  
-> **Status**: `200 OK` // `34/34 TESTS PASSING` // `CI GREEN`
-- High-throughput RESTCONF network configuration engine with sub-microsecond in-memory CRUD storage ($>10\text{M ops/s}$).
-- Thread-safe `ConcurrentHashMap` core, constant-time timing-safe Basic Auth verification, and comprehensive edge-case testing.
-
-### 🛡 `[NODE-02]` [express-logging-middleware](https://github.com/krishnarawatsf/express-logging-middleware)
-> **Protocol**: Observability & Telemetry • TypeScript • Node.js • Express  
-- Pluggable structured logging middleware featuring latency tracking, configurable sampling, and alert webhooks.
-
-### 🤖 `[NODE-03]` [ai-product-feedback-intelligence-system](https://github.com/krishnarawatsf/ai-product-feedback-intelligence-system)
-> **Protocol**: NLP Intelligence • Python • Vector Embeddings • LLMs  
-- Automated feedback intelligence pipeline aggregating multi-channel user signals, clustering bug vectors, and prioritizing product insights.
-
-### ⚙️ `[NODE-04]` [ai-operations-copilot](https://github.com/krishnarawatsf/ai-operations-copilot)
-> **Protocol**: SRE & Incident Response • Python • Automated Playbooks  
-- Deterministic incident triage copilot for automating diagnostics, system verification, and rollback workflows.
-
-### 🔍 `[NODE-05]` [phishing-url-detection](https://github.com/krishnarawatsf/phishing-url-detection)
-> **Protocol**: Cybersecurity & ML Heuristics • Python • Scikit-Learn  
-- Explainable security classifier detecting malicious URLs through lexical heuristics, domain entropy, and realistic test splits.
-
-### 📊 `[NODE-06]` [playstore-review-dashboard](https://github.com/krishnarawatsf/playstore-review-dashboard)
-> **Protocol**: Telemetry Analytics • TypeScript • React • Data Viz  
-- Interactive analytics dashboard tracking review sentiment shifts, complaint spikes, and rating distributions.
-
----
-
-## 🧬 `cat /etc/core_modules/tech_stack.json`
-
-```json
-{
-  "languages": ["Java", "Python", "TypeScript", "JavaScript", "SQL", "Bash"],
-  "frameworks": ["Spring Boot", "Express", "FastAPI", "React", "OkHttp", "Gson"],
-  "storage_engines": ["PostgreSQL", "Redis", "Concurrent In-Memory Key-Value Stores"],
-  "infrastructure": ["Docker", "Linux", "Git", "GitHub Actions CI/CD", "REST/RESTCONF"],
-  "verification": ["JUnit 5", "Mockito", "MockMvc", "MockWebServer", "PyTest", "AssertJ"]
-}
-```
-
----
-
-## 🕶 `sysctl --system-rules`
-
-```text
-├── [RULE-01]: Complexity-Aware Engineering -> O(1) Lookups over O(n) Scans
-├── [RULE-02]: Verification-First -> 100% CI Automated Pipelines
-├── [RULE-03]: Layered Decoupling -> Controller -> Service -> Repository
-└── [RULE-04]: Security by Default -> Zero Committed Secrets & Timing-Safe Crypto
-```
-
----
-
-## 📡 `ssh terminal@krishna-rawat`
+## 💾 TOP 5 HIGHLIGHTED PROJECTS
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-rawat-84913728a)
-[![Email](https://img.shields.io/badge/Encrypted_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnarawatsf@gmail.com)
-[![GitHub CI](https://img.shields.io/badge/Matrix_Status-ONLINE-00FF66?style=for-the-badge&logo=matrix&logoColor=black)](https://github.com/krishnarawatsf)
+| # | System / Repository | Domain & Architecture | Core Highlights |
+| :-: | :--- | :--- | :--- |
+| **01** | **[remote-reset-automation](https://github.com/krishnarawatsf/remote-reset-automation)** | 🌐 **Network Protocol & Systems**<br>`Java 17+` • `Spring Boot` • `RFC 8040` | • High-throughput in-memory RESTCONF CRUD engine ($>10\text{M ops/s}$)<br>• Lock-free `ConcurrentHashMap` + timing-safe Basic Auth<br>• 34/34 automated tests with live CI verification |
+| **02** | **[ai-product-feedback-intelligence-system](https://github.com/krishnarawatsf/ai-product-feedback-intelligence-system)** | 🤖 **AI & Feedback Intelligence**<br>`Python` • `NLP Embeddings` • `LLM` | • Cross-channel feedback ingestion & vector clustering<br>• Automated issue deduplication & priority scoring<br>• Real-time insight extraction for product teams |
+| **03** | **[ai-operations-copilot](https://github.com/krishnarawatsf/ai-operations-copilot)** | ⚙️ **SRE & Incident Automation**<br>`Python` • `DevOps` • `Playbooks` | • Deterministic incident triage and health check engine<br>• Automated remediation with zero-downtime rollback<br>• Built-in telemetry audit logging |
+| **04** | **[phishing-url-detection](https://github.com/krishnarawatsf/phishing-url-detection)** | 🛡️ **Cybersecurity & Machine Learning**<br>`Python` • `Scikit-Learn` • `Heuristics` | • High-accuracy URL classification engine<br>• Lexical heuristics, domain entropy & structure analysis<br>• Evaluated on rigorous, real-world data splits |
+| **05** | **[express-logging-middleware](https://github.com/krishnarawatsf/express-logging-middleware)** | ⚡ **Observability & Developer Tooling**<br>`TypeScript` • `Node.js` • `Express` | • Pluggable structured JSON request logger<br>• Configurable sampling, latency metrics & webhook alerts<br>• Production-ready, zero-dependency middleware |
 
+</div>
+
+---
+
+## 💽 TECH STACK & INVENTORY
+
+```text
+┌── [LANGUAGES] ──────┬── [BACKEND & PROTOCOLS] ──┬── [DATA & TOOLS] ──────┐
+│ • Java 17/21        │ • Spring Boot 3.x         │ • PostgreSQL           │
+│ • Python 3.11+      │ • Express / Node.js       │ • Redis In-Memory      │
+│ • TypeScript / JS   │ • FastAPI                 │ • Docker Containers    │
+│ • SQL               │ • RESTCONF (RFC 8040)     │ • Git & GitHub Actions │
+│ • Bash / Shell      │ • IETF YANG Models        │ • JUnit 5 / PyTest     │
+└─────────────────────┴───────────────────────────┴────────────────────────┘
 ```
-> "There is a difference between knowing the path and walking the path." — Morpheus
+
+---
+
+## 🔮 ENGINEERING PRINCIPLES
+
+- **`[01]` Algorithmic Discipline**: Selecting optimal data structures ($O(1)$ hash maps over linear scans).
+- **`[02]` Empirical Validation**: Real runtime benchmark measurements across $N = 100 \to 50,000$.
+- **`[03]` Layered Decoupling**: Strict 3-tier modular separation (Controller $\to$ Service $\to$ Repository).
+- **`[04]` Security by Design**: Constant-time crypto comparisons, sanitized inputs, and zero committed secrets.
+
+---
+
+## 📟 CONNECT & TRANSMIT
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/krishna-rawat-84913728a">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:krishnarawatsf@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-ff71ce?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/krishnarawatsf">
+  <img src="https://img.shields.io/badge/GITHUB-01cdfe?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br><br>
+
+```text
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+   "Simplicity is prerequisite for reliability." — Edsger W. Dijkstra
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 ```
 
 </div>
