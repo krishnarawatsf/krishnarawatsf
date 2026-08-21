@@ -10,7 +10,7 @@ I focus on building production-grade services with **provable algorithmic comple
 
 ### 🌐 Network & Protocol Systems
 - **[remote-reset-automation](https://github.com/krishnarawatsf/remote-reset-automation)**: RFC 8040 RESTCONF network interface manager with sub-microsecond in-memory CRUD engine, Spring Boot mock server, and 34 automated unit/integration tests.
-- **[logging-middleware](https://github.com/krishnarawatsf/logging_middleware)**: Pluggable TypeScript middleware for structured logging, latency tracking, and webhook notification triggers.
+- **[express-logging-middleware](https://github.com/krishnarawatsf/express-logging-middleware)**: Pluggable TypeScript middleware for structured logging, latency tracking, and webhook notification triggers.
 
 ### 🤖 AI & Intelligent Operations
 - **[ai-product-feedback-intelligence-system](https://github.com/krishnarawatsf/ai-product-feedback-intelligence-system)**: Automated NLP feedback intelligence system that aggregates cross-channel user signals, clusters bug reports, and surfaces prioritized action items.
