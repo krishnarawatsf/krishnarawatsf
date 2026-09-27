@@ -67,15 +67,15 @@ $$\text{Business Context} \longrightarrow \text{Risk Identification} \longrighta
 
 <table>
   <tr>
-    <td width="25%"><b>🛡️ Cybersecurity GRC</b></td>
+    <td width="25%"><b>Cybersecurity GRC</b></td>
     <td>ISO/IEC 27001:2022, ISO 42001, NIST AI RMF, RBI IT Framework, DPDP Act 2023, Risk Assessment, Control Auditing, Gap Analysis, ISMS</td>
   </tr>
   <tr>
-    <td width="25%"><b>📊 Cyber Risk & TPRM</b></td>
+    <td width="25%"><b>Cyber Risk & TPRM</b></td>
     <td>Risk Registers, 3×3 Risk Matrices, Remediation Planning, Vendor Risk Scoring, Third-Party Due Diligence, Supply Chain Security</td>
   </tr>
   <tr>
-    <td width="25%"><b>🤖 AI Governance</b></td>
+    <td width="25%"><b>AI Governance</b></td>
     <td>AI Risk Classification (Tiered), Algorithmic Bias Mitigation, Explainability (SHAP), LLM Guardrails, Responsible AI Lifecycle</td>
   </tr>
   <tr>
